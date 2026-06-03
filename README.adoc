@@ -350,3 +350,7 @@ The following guide may also be helpful:
 * https://spring.io/guides/gs/maven/[Building Java Projects with Maven]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/footer.adoc[]
+
+* https://spring.io/guides/gs/maven/[Building Java Projects with Maven]
+
+include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
