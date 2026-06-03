@@ -1,0 +1,14 @@
+
+
+mSingleAccountApp.signOut(new ISingleAccountPublicClientApplication.SignOutCallback() {
+    @Override
+    public void onSignOut() {
+        updateUI(null);
+        performOperationOnSignOut();
+    }
+
+    @Override
+    public void onError(@NonNull MsalException exception) {
+        displayError(exception);
+    }
+});
